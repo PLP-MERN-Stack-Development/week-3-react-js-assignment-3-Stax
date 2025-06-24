@@ -1,0 +1,56 @@
+[
+  {
+    "id": "prop1",
+    "imageUrl": "https://picsum.photos/id/10/700/500",
+    "address": "123 Main St, Anytown",
+    "price": 350000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "description": "A charming family home located in a quiet neighborhood with excellent schools. Features a spacious living room, modern kitchen, and a beautiful backyard."
+  },
+  {
+    "id": "prop2",
+    "imageUrl": "https://picsum.photos/id/20/700/500",
+    "address": "456 Oak Ave, Somewhere",
+    "price": 520000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "description": "Stunning contemporary house with panoramic views. Open concept living, gourmet kitchen, and a master suite with a private balcony. Close to downtown."
+  },
+  {
+    "id": "prop3",
+    "imageUrl": "https://picsum.photos/id/30/700/500",
+    "address": "789 Pine Ln, Nowhere",
+    "price": 280000,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "description": "Cozy starter home, recently renovated with new flooring and paint. Perfect for singles or a small family. Large front yard and easy access to public transport."
+  },
+  {
+    "id": "prop4",
+    "imageUrl": "https://picsum.photos/id/40/700/500",
+    "address": "101 Bay View, Seaside",
+    "price": 750000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "description": "Luxury beachfront property with breathtaking ocean views. Features a private pool, spacious deck, and direct beach access. Ideal for entertaining."
+  },
+  {
+    "id": "prop5",
+    "imageUrl": "https://picsum.photos/id/50/700/500",
+    "address": "202 Hilltop Rd, Summit",
+    "price": 600000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "description": "Modern home perched on a hilltop, offering stunning city views. Open-plan living, smart home features, and a tranquil garden. Convenient to amenities."
+  },
+  {
+    "id": "prop6",
+    "imageUrl": "https://picsum.photos/id/60/700/500",
+    "address": "303 Valley Dr, Greenfield",
+    "price": 410000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "description": "Spacious suburban house with a large yard, perfect for families. Recently updated kitchen and bathrooms. Close to parks and a vibrant community center."
+  }
+]
